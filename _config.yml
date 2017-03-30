@@ -1,2 +1,3 @@
 name: LTCE Prep 
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
