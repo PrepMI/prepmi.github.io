@@ -1,0 +1,404 @@
+---
+layout: default
+title: Week 03 Pronunciation
+---
+<div class="blurb">
+<table>
+<tbody>
+<tr><td><audio id="appendectomy">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/appendectomy.mp3"></source>
+</audio><button onclick="document.getElementById('appendectomy').play()">Play Audio</button></td><td>&nbsp;<b>ap·pen·dec·to·my</b></td><td>&nbsp; | &nbsp;[ap-uh n-DEK-tuh-mee]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="appendicitis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/appendicitis.mp3"></source>
+</audio><button onclick="document.getElementById('appendicitis').play()">Play Audio</button></td><td>&nbsp;<b>ap·pen·di·ci·tis</b></td><td>&nbsp; | &nbsp;[uh-pen-duh-SAHY-tis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="appendix">  
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/appendix.mp3"></source>
+</audio><button onclick="document.getElementById('appendix').play()">Play Audio</button></td><td>&nbsp;<b>ap·pen·dix</b></td><td>&nbsp; | &nbsp;[uh-PEN-diks]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="bile">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/bile.mp3"></source>
+</audio><button onclick="document.getElementById('bile').play()">Play Audio</button></td><td>&nbsp;<b>bile</b></td><td>&nbsp; | &nbsp;[bahyl]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="bladder">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/bladder.mp3"></source>
+</audio><button onclick="document.getElementById('bladder').play()">Play Audio</button></td><td>&nbsp;<b>blad·der</b></td><td>&nbsp; | &nbsp;[BLAD-er]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="bowel">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/bowel.mp3"></source>
+</audio><button onclick="document.getElementById('bowel').play()">Play Audio</button></td><td>&nbsp;<b>bow·el</b></td><td>&nbsp; | &nbsp;[BOU-uhl]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="catheter">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/catheter.mp3"></source>
+</audio><button onclick="document.getElementById('catheter').play()">Play Audio</button></td><td>&nbsp;<b>cath·e·ter</b></td><td>&nbsp; | &nbsp;[KATH-i-ter]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)</td><td><b>&nbsp;ce·ci·tis</b></td><td>&nbsp; | &nbsp;[se-si-tus]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="cecum">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/cecum.mp3"></source>
+</audio><button onclick="document.getElementById('cecum').play()">Play Audio</button></td><td><b>&nbsp;ce·cum</b></td><td>&nbsp; | &nbsp;[SEE-kuhm]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="cirrhosis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/cirrhosis.mp3"></source>
+</audio><button onclick="document.getElementById('cirrhosis').play()">Play Audio</button></td><td><b>&nbsp;cir·rho·sis</b></td>
+<td>| [si-ROH-sis]</td></tr>
+</tbody></table>
+<br />
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)&nbsp;</td><td>&nbsp;<b>co·lon</b></td><td>&nbsp;| [KOH-l<i>uh</i>n]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="colonoscopy">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/colonoscopy.mp3"></source>
+</audio><button onclick="document.getElementById('colonoscopy').play()">Play Audio</button></td><td>&nbsp;<b>co·lon·os·co·py</b></td><td>&nbsp; | &nbsp;[koh-luh-NOS-kuh-pee]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="constipated">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/constipated.mp3"></source>
+</audio><button onclick="document.getElementById('constipated').play()">Play Audio</button></td><td>&nbsp;<b>con·sti·pat·ed</b></td><td>&nbsp; | &nbsp;[KON-stuh-pey-tid]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)</td><td><b>&nbsp;cys·sti·tis</b></td><td>&nbsp; | &nbsp;[si-STAHY-tis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="dehydration">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/dehydration.mp3"></source>
+</audio><button onclick="document.getElementById('dehydration').play()">Play Audio</button></td><td><b>&nbsp;de·hy·dra·tion</b></td><td>&nbsp; | &nbsp;[dee-hahy-DREY-shuh n]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="diabetes">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/diabetes.mp3"></source>
+</audio><button onclick="document.getElementById('diabetes').play()">Play Audio</button></td><td><b>&nbsp;di·a·be·tes</b></td><td>&nbsp; | &nbsp;[dahy-uh-BEE-tis, -teez]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="diarrhea">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/diarrhea.mp3"></source>
+</audio><button onclick="document.getElementById('diarrhea').play()">Play Audio</button></td><td><b>&nbsp;di·ar·rhe·a</b></td><td>&nbsp; | &nbsp;[dahy-uh-REE-uh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="dialysis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/dialysis.mp3"></source>
+</audio><button onclick="document.getElementById('dialysis').play()">Play Audio</button></td><td><b>&nbsp;di·al·y·sis</b></td><td>&nbsp; | &nbsp;[dahy-AL-uh-sis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="digestion">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/digestion.mp3"></source>
+</audio><button onclick="document.getElementById('digestion').play()">Play Audio</button></td><td><b>&nbsp;di·ges·tion</b></td><td>&nbsp; | &nbsp;[dih-JES-chuhn]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="diuretic">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/diuretic.mp3"></source>
+</audio><button onclick="document.getElementById('diuretic').play()">Play Audio</button></td><td><b>&nbsp;di·u·ret·ic</b></td><td>&nbsp; | &nbsp;[dahy-uh-RET-ik]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="duodenal">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/duodenal.mp3"></source>
+</audio><button onclick="document.getElementById('duodenal').play()">Play Audio</button></td><td><b>&nbsp;du·o·de·nal</b></td><td>&nbsp; | &nbsp;[doo-uh-DEEN-l]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)</td><td>&nbsp;<b>du·o·de·nec·to·my</b> </td><td>&nbsp; | &nbsp;[]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="duodenum">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/duodenum.mp3"></source>
+</audio><button onclick="document.getElementById('duodenum').play()">Play Audio</button></td><td>&nbsp;<b>du·o·de·num</b></td><td>&nbsp; | &nbsp;[doo-uh-DEE-nuhm]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)</td><td>&nbsp;<b>dys·pep·sia </b></td><td>&nbsp; | &nbsp;[dis-PEP-shuh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="dysphagia">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/dysphagia.mp3"></source>
+</audio><button onclick="document.getElementById('dysphagia').play()">Play Audio</button></td><td>&nbsp;<b>dys·pha·gia</b></td><td>&nbsp; | &nbsp;[dis-FEY-juh, -jee-uh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="esophagus">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/esophagus.mp3"></source>
+</audio><button onclick="document.getElementById('esophagus').play()">Play Audio</button></td><td>&nbsp;<b>e·soph·a·gus</b></td><td>&nbsp; | &nbsp;[ih-SOF-uh-guhs]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="excretion">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/excretion.mp3"></source>
+</audio><button onclick="document.getElementById('excretion').play()">Play Audio</button></td><td>&nbsp;<b>ex·cre·tion</b></td><td>&nbsp; | &nbsp;[ik-SKREE-shuhn]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="flatulent">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/flatulent.mp3"></source>
+</audio><button onclick="document.getElementById('flatulent').play()">Play Audio</button></td><td>&nbsp;<b>flat·u·lent</b></td><td>&nbsp; | &nbsp;[FLACH-uh-luhnt]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="gallbladder">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/gallbladder.mp3"></source>
+</audio><button onclick="document.getElementById('gallbladder').play()">Play Audio</button></td><td>&nbsp;<b>gall·blad·der</b></td><td>&nbsp; | &nbsp;[GAWL-blad-er]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="gallstone">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/gallstone.mp3"></source>
+</audio><button onclick="document.getElementById('gallstone').play()">Play Audio</button></td><td>&nbsp;<b>gall·stone</b></td><td>&nbsp; | &nbsp;[GAWL-stohn]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="gastrectomy">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/gastrectomy.mp3"></source>
+</audio><button onclick="document.getElementById('gastrectomy').play()">Play Audio</button></td><td>&nbsp;<b>gas·trec·to·my</b></td><td>&nbsp; | &nbsp;[ga-STREK-tuh-mee]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="gastritis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/gastritis.mp3"></source>
+</audio><button onclick="document.getElementById('gastritis').play()">Play Audio</button></td><td>&nbsp;<b>gas·tri·tis</b></td><td>&nbsp; | &nbsp;[ga-STRAHY-tis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="gastrointestinal">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/gastrointestinal.mp3"></source>
+</audio><button onclick="document.getElementById('gastrointestinal').play()">Play Audio</button></td><td>&nbsp;<b>gas·tro·in·tes·ti·nal</b></td><td>&nbsp; | &nbsp;[gas-troh-in-TES-tuh-nl]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td>(no audio)</td><td>&nbsp;<b>gas·tro·en·ter·o·lo·gist</b></td><td>&nbsp; | &nbsp;[]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="hepatitis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/hepatitis.mp3"></source>
+</audio><button onclick="document.getElementById('hepatitis').play()">Play Audio</button></td><td>&nbsp;<b>hep·a·ti·tis</b></td><td>&nbsp; | &nbsp;[hep-uh-TAHY-tis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="hyperglycemia">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/hyperglycemia.mp3"></source>
+</audio><button onclick="document.getElementById('hyperglycemia').play()">Play Audio</button></td><td>&nbsp;<b>hy·per·gly·ce·mi·a</b></td><td>&nbsp; | &nbsp;[hahy-per-glahy-SEE-mee-uh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="intestine">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/intestine.mp3"></source>
+</audio><button onclick="document.getElementById('intestine').play()">Play Audio</button></td><td>&nbsp;<b>in·tes·tine</b></td><td>&nbsp; | &nbsp;[in-TES-tin]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="jaundice">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/jaundice.mp3"></source>
+</audio><button onclick="document.getElementById('jaundice').play()">Play Audio</button></td><td>&nbsp;<b>jaun·dice</b></td><td>&nbsp; | &nbsp;[JAWN-dis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="kidney">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/kidney.mp3"></source>
+</audio><button onclick="document.getElementById('kidney').play()">Play Audio</button></td><td>&nbsp;<b>kid·ney</b></td><td>&nbsp; | &nbsp;[KID-nee]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="laparoscopy">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/laparoscopy.mp3"></source>
+</audio><button onclick="document.getElementById('laparoscopy').play()">Play Audio</button></td><td>&nbsp;<b>lap·a·ros·co·py</b></td><td>&nbsp; | &nbsp;[lap-uh-ROS-kuh-pee]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="laxative">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/laxative.mp3"></source>
+</audio><button onclick="document.getElementById('laxative').play()">Play Audio</button></td><td>&nbsp;<b>lax·a·tive</b></td><td>&nbsp; | &nbsp;[LAK-suh-tiv]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="liver">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/liver.mp3"></source>
+</audio><button onclick="document.getElementById('liver').play()">Play Audio</button></td><td>&nbsp;<b>liv·er</b></td><td>&nbsp; | &nbsp;[LIV-er]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="nephritis">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/nephritis.mp3"></source>
+</audio><button onclick="document.getElementById('nephritis').play()">Play Audio</button></td><td>&nbsp;<b>ne·phri·tis</b></td><td>&nbsp; | &nbsp;[nuh-FRAHY-tis]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="polyuria">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/polyuria.mp3"></source>
+</audio><button onclick="document.getElementById('polyuria').play()">Play Audio</button></td><td>&nbsp;<b>pol·y·u·ri·a</b></td><td>&nbsp; | &nbsp;[pol-ee-YOOR-ee-uh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="reconstructive">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/reconstructive.mp3"></source>
+</audio><button onclick="document.getElementById('reconstructive').play()">Play Audio</button></td><td>&nbsp;<b>re·con·struc·tive</b></td><td>&nbsp; | &nbsp;[ree-kuhn-STRUHK-tiv]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="rectum">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/rectum.mp3"></source>
+</audio><button onclick="document.getElementById('rectum').play()">Play Audio</button></td><td>&nbsp;<b>rec·tum</b></td><td>&nbsp; | &nbsp;[REK-tuh m]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="rehydration">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/rehydration.mp3"></source>
+</audio><button onclick="document.getElementById('rehydration').play()">Play Audio</button></td><td>&nbsp;<b>re·hy·dra·tion</b></td><td>&nbsp; | &nbsp;[ree-HAHY-drey-shuhn]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="rupture">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/rupture.mp3"></source>
+</audio><button onclick="document.getElementById('rupture').play()">Play Audio</button></td><td>&nbsp;<b>rup·ture</b></td><td>&nbsp; | &nbsp;[RUHP-cher]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="urethra">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/urethra.mp3"></source>
+</audio><button onclick="document.getElementById('urethra').play()">Play Audio</button></td><td>&nbsp;<b>u·re·thra</b></td><td>&nbsp; | &nbsp;[yoo-REE-thruh]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="urine">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/urine.mp3"></source>
+</audio><button onclick="document.getElementById('urine').play()">Play Audio</button> </td><td>&nbsp; | &nbsp;<b>u·rine</b></td><td>&nbsp; | &nbsp;[YOOR-in]</td></tr>
+</tbody></table>
+<hr />
+<br />
+<table>
+<tbody>
+<tr><td><audio id="urologist">
+<source src="https://ssl.gstatic.com/dictionary/static/sounds/de/0/urologist.mp3"></source>
+</audio><button onclick="document.getElementById('urologist').play()">Play Audio</button></td><td>&nbsp;<b>urologist</b></td><td>&nbsp; | &nbsp;[]</td></tr>
+</tbody></table>
+<hr />
+<br />
+</div><!-- /.blurb -->
